@@ -5,7 +5,7 @@
 <h2>The app consists of 2 main parts</h2>
 <ol>
   <li>A numbered question of a country's flag</li>
-  <li>A set of countries flags to choose from</li>
+  <li>A set of country flags to choose from</li>
 </ol>
 
 <ol>
